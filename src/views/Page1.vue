@@ -25,7 +25,7 @@
                 this.$store.commit("addSex",this.checked)
             },
             del(){
-                this.checked=''
+                this.checked='保密'
             }
         }
     }
